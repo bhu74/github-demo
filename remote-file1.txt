@@ -1,4 +1,7 @@
 File created in remote repository
 
 Remote line 1
-remote line 2
+Remote Line 2 == Modified Line in local repo
+
+Local Line 1
+Local Line 2
