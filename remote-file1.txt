@@ -5,3 +5,8 @@ Remote Line 2 == Modified Line in local repo
 
 Local Line 1
 Local Line 2
+
+Local Line 3
+Local Line 4
+
+
